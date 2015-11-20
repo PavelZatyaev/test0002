@@ -20,6 +20,7 @@ public class HomeController {
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
 	/**
+	 * checkit!!!
 	 * 11 work!!!-01
 	 * Simply selects the home view to render by returning its name.
 	 */
